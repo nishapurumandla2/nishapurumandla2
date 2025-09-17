@@ -41,7 +41,7 @@ AI-based tool to monitor student engagement during online assessments using **Py
 
 ## 🔹 Connect With Me  
 📧 Email: [nisha2005.purumandla@gmail.com](mailto:nisha2005.purumandla@gmail.com)  
-💼 [LinkedIn](www.linkedin.com/in/nisha-purumandla-18b004250)  
+💼 [LinkedIn](https://www.linkedin.com/in/nisha-purumandla-18b004250)  
 💻 [GitHub](https://github.com/nishapurumandla2)  
 
 ---
