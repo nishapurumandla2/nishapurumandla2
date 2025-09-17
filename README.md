@@ -29,11 +29,6 @@ AI-based tool to monitor student engagement during online assessments using **Py
 - Built live dashboard for proctor insights  
 - Automated emotion recognition → reduced manual monitoring  
 
-### 🎙️ [Jarvis Desktop AI Assistant](https://github.com/nishapurumandla2/jarvis-ai-assistant)  
-Voice-controlled AI assistant with speech recognition, text-to-speech, and 50+ custom commands.  
-- Built with **Python, Eel, HTML, CSS, JavaScript**  
-- Features: web search, system commands, AI responses  
-
 ---
 
 ## 🔹 Achievements & Activities  
